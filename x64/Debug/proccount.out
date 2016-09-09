@@ -1,0 +1,9 @@
+=============== v Starting Pin Instrumented Program v ===============
+---	0	.text	IMG C:\Users\mshah08\Dropbox\Sandbox\pin-3.0-76991-msvc-windows2\source\tools\MyPinTool\x64\Debug\MatlabVolume.exe
+---	0	.text	IMG C:\Users\mshah08\Dropbox\Sandbox\pin-3.0-76991-msvc-windows2\source\tools\MyPinTool\x64\Debug\MatlabVolume.exe
+---	0	unnamedImageEntryPoint	IMG C:\Users\mshah08\Dropbox\Sandbox\pin-3.0-76991-msvc-windows2\source\tools\MyPinTool\x64\Debug\MatlabVolume.exe
+.unnamedImageEntryPoint => 0 in 
+...text => 0 in 
+              Procedure           Image            Address        Calls Instructions
+
+===============^ Ending Pin Instrumented Program ^===============

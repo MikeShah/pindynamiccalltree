@@ -1,0 +1,204 @@
+=============== v Starting Pin Instrumented Program v ===============
+---	0	__enc$textbss$end	IMG C:\Users\mshah08\Dropbox\Sandbox\pin-3.0-76991-msvc-windows2\source\tools\MyPinTool\Debug\TestProgram1.exe
+---	0	unnamedImageEntryPoint	IMG C:\Users\mshah08\Dropbox\Sandbox\pin-3.0-76991-msvc-windows2\source\tools\MyPinTool\Debug\TestProgram1.exe
+---c:\users\mshah08\dropbox\sandbox\pin-3.0-76991-msvc-windows2\source\tools\testprogram1\main.cpp	23	printSecondCall	IMG C:\Users\mshah08\Dropbox\Sandbox\pin-3.0-76991-msvc-windows2\source\tools\MyPinTool\Debug\TestProgram1.exe
+---c:\users\mshah08\dropbox\sandbox\pin-3.0-76991-msvc-windows2\source\tools\testprogram1\main.cpp	27	lllinearSearch	IMG C:\Users\mshah08\Dropbox\Sandbox\pin-3.0-76991-msvc-windows2\source\tools\MyPinTool\Debug\TestProgram1.exe
+---c:\users\mshah08\dropbox\sandbox\pin-3.0-76991-msvc-windows2\source\tools\testprogram1\main.cpp	38	bbbinarySearch	IMG C:\Users\mshah08\Dropbox\Sandbox\pin-3.0-76991-msvc-windows2\source\tools\MyPinTool\Debug\TestProgram1.exe
+---c:\users\mshah08\dropbox\sandbox\pin-3.0-76991-msvc-windows2\source\tools\testprogram1\main.cpp	62	main	IMG C:\Users\mshah08\Dropbox\Sandbox\pin-3.0-76991-msvc-windows2\source\tools\MyPinTool\Debug\TestProgram1.exe
+---c:\program files (x86)\microsoft visual studio 10.0\vc\include\ostream	767	std::operator<<<std::char_traits<char> >	IMG C:\Users\mshah08\Dropbox\Sandbox\pin-3.0-76991-msvc-windows2\source\tools\MyPinTool\Debug\TestProgram1.exe
+---c:\program files (x86)\microsoft visual studio 10.0\vc\include\iosfwd	490	std::char_traits<char>::length	IMG C:\Users\mshah08\Dropbox\Sandbox\pin-3.0-76991-msvc-windows2\source\tools\MyPinTool\Debug\TestProgram1.exe
+---c:\program files (x86)\microsoft visual studio 10.0\vc\include\iosfwd	552	std::char_traits<char>::eq_int_type	IMG C:\Users\mshah08\Dropbox\Sandbox\pin-3.0-76991-msvc-windows2\source\tools\MyPinTool\Debug\TestProgram1.exe
+---c:\program files (x86)\microsoft visual studio 10.0\vc\include\iosfwd	562	std::char_traits<char>::eof	IMG C:\Users\mshah08\Dropbox\Sandbox\pin-3.0-76991-msvc-windows2\source\tools\MyPinTool\Debug\TestProgram1.exe
+---c:\program files (x86)\microsoft visual studio 10.0\vc\include\ostream	114	std::basic_ostream<char,std::char_traits<char> >::sentry::sentry	IMG C:\Users\mshah08\Dropbox\Sandbox\pin-3.0-76991-msvc-windows2\source\tools\MyPinTool\Debug\TestProgram1.exe
+---c:\program files (x86)\microsoft visual studio 10.0\vc\include\ostream	121	std::basic_ostream<char,std::char_traits<char> >::sentry::~sentry	IMG C:\Users\mshah08\Dropbox\Sandbox\pin-3.0-76991-msvc-windows2\source\tools\MyPinTool\Debug\TestProgram1.exe
+---c:\program files (x86)\microsoft visual studio 10.0\vc\include\ostream	132	std::basic_ostream<char,std::char_traits<char> >::sentry::operator int std::_Bool_struct::*	IMG C:\Users\mshah08\Dropbox\Sandbox\pin-3.0-76991-msvc-windows2\source\tools\MyPinTool\Debug\TestProgram1.exe
+---c:\program files (x86)\microsoft visual studio 10.0\vc\include\ostream	91	std::basic_ostream<char,std::char_traits<char> >::_Sentry_base::_Sentry_base	IMG C:\Users\mshah08\Dropbox\Sandbox\pin-3.0-76991-msvc-windows2\source\tools\MyPinTool\Debug\TestProgram1.exe
+---c:\program files (x86)\microsoft visual studio 10.0\vc\include\ostream	97	std::basic_ostream<char,std::char_traits<char> >::_Sentry_base::~_Sentry_base	IMG C:\Users\mshah08\Dropbox\Sandbox\pin-3.0-76991-msvc-windows2\source\tools\MyPinTool\Debug\TestProgram1.exe
+---	0	??6?$basic_ostream@DU?$char_traits@D@std@@@std@@QAEAAV01@P6AAAV01@AAV01@@Z@Z	IMG C:\Users\mshah08\Dropbox\Sandbox\pin-3.0-76991-msvc-windows2\source\tools\MyPinTool\Debug\TestProgram1.exe
+---	0	?endl@std@@YAAAV?$basic_ostream@DU?$char_traits@D@std@@@1@AAV21@@Z	IMG C:\Users\mshah08\Dropbox\Sandbox\pin-3.0-76991-msvc-windows2\source\tools\MyPinTool\Debug\TestProgram1.exe
+---	0	?setstate@?$basic_ios@DU?$char_traits@D@std@@@std@@QAEXH_N@Z	IMG C:\Users\mshah08\Dropbox\Sandbox\pin-3.0-76991-msvc-windows2\source\tools\MyPinTool\Debug\TestProgram1.exe
+---	0	?width@ios_base@std@@QAE_J_J@Z	IMG C:\Users\mshah08\Dropbox\Sandbox\pin-3.0-76991-msvc-windows2\source\tools\MyPinTool\Debug\TestProgram1.exe
+---	0	?sputn@?$basic_streambuf@DU?$char_traits@D@std@@@std@@QAE_JPBD_J@Z	IMG C:\Users\mshah08\Dropbox\Sandbox\pin-3.0-76991-msvc-windows2\source\tools\MyPinTool\Debug\TestProgram1.exe
+---	0	?sputc@?$basic_streambuf@DU?$char_traits@D@std@@@std@@QAEHD@Z	IMG C:\Users\mshah08\Dropbox\Sandbox\pin-3.0-76991-msvc-windows2\source\tools\MyPinTool\Debug\TestProgram1.exe
+---	0	?rdbuf@?$basic_ios@DU?$char_traits@D@std@@@std@@QBEPAV?$basic_streambuf@DU?$char_traits@D@std@@@2@XZ	IMG C:\Users\mshah08\Dropbox\Sandbox\pin-3.0-76991-msvc-windows2\source\tools\MyPinTool\Debug\TestProgram1.exe
+---	0	?fill@?$basic_ios@DU?$char_traits@D@std@@@std@@QBEDXZ	IMG C:\Users\mshah08\Dropbox\Sandbox\pin-3.0-76991-msvc-windows2\source\tools\MyPinTool\Debug\TestProgram1.exe
+---	0	?flags@ios_base@std@@QBEHXZ	IMG C:\Users\mshah08\Dropbox\Sandbox\pin-3.0-76991-msvc-windows2\source\tools\MyPinTool\Debug\TestProgram1.exe
+---	0	?width@ios_base@std@@QBE_JXZ	IMG C:\Users\mshah08\Dropbox\Sandbox\pin-3.0-76991-msvc-windows2\source\tools\MyPinTool\Debug\TestProgram1.exe
+---	0	?flush@?$basic_ostream@DU?$char_traits@D@std@@@std@@QAEAAV12@XZ	IMG C:\Users\mshah08\Dropbox\Sandbox\pin-3.0-76991-msvc-windows2\source\tools\MyPinTool\Debug\TestProgram1.exe
+---	0	?tie@?$basic_ios@DU?$char_traits@D@std@@@std@@QBEPAV?$basic_ostream@DU?$char_traits@D@std@@@2@XZ	IMG C:\Users\mshah08\Dropbox\Sandbox\pin-3.0-76991-msvc-windows2\source\tools\MyPinTool\Debug\TestProgram1.exe
+---	0	?good@ios_base@std@@QBE_NXZ	IMG C:\Users\mshah08\Dropbox\Sandbox\pin-3.0-76991-msvc-windows2\source\tools\MyPinTool\Debug\TestProgram1.exe
+---	0	?_Osfx@?$basic_ostream@DU?$char_traits@D@std@@@std@@QAEXXZ	IMG C:\Users\mshah08\Dropbox\Sandbox\pin-3.0-76991-msvc-windows2\source\tools\MyPinTool\Debug\TestProgram1.exe
+---	0	?uncaught_exception@std@@YA_NXZ	IMG C:\Users\mshah08\Dropbox\Sandbox\pin-3.0-76991-msvc-windows2\source\tools\MyPinTool\Debug\TestProgram1.exe
+---	0	_RTC_InitBase	IMG C:\Users\mshah08\Dropbox\Sandbox\pin-3.0-76991-msvc-windows2\source\tools\MyPinTool\Debug\TestProgram1.exe
+---	0	_RTC_Shutdown	IMG C:\Users\mshah08\Dropbox\Sandbox\pin-3.0-76991-msvc-windows2\source\tools\MyPinTool\Debug\TestProgram1.exe
+---f:\dd\vctools\crt_bld\SELF_X86\crt\src\INTEL\llmul.asm	47	_allmul	IMG C:\Users\mshah08\Dropbox\Sandbox\pin-3.0-76991-msvc-windows2\source\tools\MyPinTool\Debug\TestProgram1.exe
+---f:\dd\vctools\crt_bld\SELF_X86\crt\src\INTEL\ulldiv.asm	44	_aulldiv	IMG C:\Users\mshah08\Dropbox\Sandbox\pin-3.0-76991-msvc-windows2\source\tools\MyPinTool\Debug\TestProgram1.exe
+---	0	___CxxFrameHandler3	IMG C:\Users\mshah08\Dropbox\Sandbox\pin-3.0-76991-msvc-windows2\source\tools\MyPinTool\Debug\TestProgram1.exe
+---	0	_strlen	IMG C:\Users\mshah08\Dropbox\Sandbox\pin-3.0-76991-msvc-windows2\source\tools\MyPinTool\Debug\TestProgram1.exe
+---f:\dd\vctools\crt_bld\self_x86\crt\src\crtexe.c	197	pre_c_init	IMG C:\Users\mshah08\Dropbox\Sandbox\pin-3.0-76991-msvc-windows2\source\tools\MyPinTool\Debug\TestProgram1.exe
+---f:\dd\vctools\crt_bld\self_x86\crt\src\crtexe.c	278	pre_cpp_init	IMG C:\Users\mshah08\Dropbox\Sandbox\pin-3.0-76991-msvc-windows2\source\tools\MyPinTool\Debug\TestProgram1.exe
+---f:\dd\vctools\crt_bld\self_x86\crt\src\crtexe.c	361	mainCRTStartup	IMG C:\Users\mshah08\Dropbox\Sandbox\pin-3.0-76991-msvc-windows2\source\tools\MyPinTool\Debug\TestProgram1.exe
+---f:\dd\vctools\crt_bld\self_x86\crt\src\crtexe.c	378	__tmainCRTStartup	IMG C:\Users\mshah08\Dropbox\Sandbox\pin-3.0-76991-msvc-windows2\source\tools\MyPinTool\Debug\TestProgram1.exe
+---f:\dd\public\sdk\inc\winnt.h	15144	NtCurrentTeb	IMG C:\Users\mshah08\Dropbox\Sandbox\pin-3.0-76991-msvc-windows2\source\tools\MyPinTool\Debug\TestProgram1.exe
+---f:\dd\vctools\crt_bld\self_x86\crt\src\crtexe.c	616	check_managed_app	IMG C:\Users\mshah08\Dropbox\Sandbox\pin-3.0-76991-msvc-windows2\source\tools\MyPinTool\Debug\TestProgram1.exe
+---	0	_RTC_NumErrors	IMG C:\Users\mshah08\Dropbox\Sandbox\pin-3.0-76991-msvc-windows2\source\tools\MyPinTool\Debug\TestProgram1.exe
+---	0	_RTC_GetErrDesc	IMG C:\Users\mshah08\Dropbox\Sandbox\pin-3.0-76991-msvc-windows2\source\tools\MyPinTool\Debug\TestProgram1.exe
+---	0	_RTC_SetErrorType	IMG C:\Users\mshah08\Dropbox\Sandbox\pin-3.0-76991-msvc-windows2\source\tools\MyPinTool\Debug\TestProgram1.exe
+---	0	_RTC_SetErrorFunc	IMG C:\Users\mshah08\Dropbox\Sandbox\pin-3.0-76991-msvc-windows2\source\tools\MyPinTool\Debug\TestProgram1.exe
+---	0	_RTC_SetErrorFuncW	IMG C:\Users\mshah08\Dropbox\Sandbox\pin-3.0-76991-msvc-windows2\source\tools\MyPinTool\Debug\TestProgram1.exe
+---	0	_RTC_GetErrorFunc	IMG C:\Users\mshah08\Dropbox\Sandbox\pin-3.0-76991-msvc-windows2\source\tools\MyPinTool\Debug\TestProgram1.exe
+---	0	_RTC_GetErrorFuncW	IMG C:\Users\mshah08\Dropbox\Sandbox\pin-3.0-76991-msvc-windows2\source\tools\MyPinTool\Debug\TestProgram1.exe
+---	0	__CRT_RTC_INITW	IMG C:\Users\mshah08\Dropbox\Sandbox\pin-3.0-76991-msvc-windows2\source\tools\MyPinTool\Debug\TestProgram1.exe
+---f:\dd\vctools\crt_bld\self_x86\crt\prebuild\eh\unhandld.cpp	67	__CxxUnhandledExceptionFilter	IMG C:\Users\mshah08\Dropbox\Sandbox\pin-3.0-76991-msvc-windows2\source\tools\MyPinTool\Debug\TestProgram1.exe
+---f:\dd\vctools\crt_bld\self_x86\crt\prebuild\eh\unhandld.cpp	86	__CxxSetUnhandledExceptionFilter	IMG C:\Users\mshah08\Dropbox\Sandbox\pin-3.0-76991-msvc-windows2\source\tools\MyPinTool\Debug\TestProgram1.exe
+---	0	__configthreadlocale	IMG C:\Users\mshah08\Dropbox\Sandbox\pin-3.0-76991-msvc-windows2\source\tools\MyPinTool\Debug\TestProgram1.exe
+---f:\dd\vctools\crt_bld\self_x86\crt\src\intel\fp8.c	30	_setdefaultprecision	IMG C:\Users\mshah08\Dropbox\Sandbox\pin-3.0-76991-msvc-windows2\source\tools\MyPinTool\Debug\TestProgram1.exe
+---f:\dd\vctools\crt_bld\self_x86\crt\src\internal.h	711	_invoke_watson_if_error	IMG C:\Users\mshah08\Dropbox\Sandbox\pin-3.0-76991-msvc-windows2\source\tools\MyPinTool\Debug\TestProgram1.exe
+---	0	___setusermatherr	IMG C:\Users\mshah08\Dropbox\Sandbox\pin-3.0-76991-msvc-windows2\source\tools\MyPinTool\Debug\TestProgram1.exe
+---f:\dd\vctools\crt_bld\self_x86\crt\src\merr.c	37	_matherr	IMG C:\Users\mshah08\Dropbox\Sandbox\pin-3.0-76991-msvc-windows2\source\tools\MyPinTool\Debug\TestProgram1.exe
+---f:\dd\vctools\crt_bld\self_x86\crt\src\dllargv.c	56	_setargv	IMG C:\Users\mshah08\Dropbox\Sandbox\pin-3.0-76991-msvc-windows2\source\tools\MyPinTool\Debug\TestProgram1.exe
+---	0	_RTC_Initialize	IMG C:\Users\mshah08\Dropbox\Sandbox\pin-3.0-76991-msvc-windows2\source\tools\MyPinTool\Debug\TestProgram1.exe
+---	0	_RTC_Terminate	IMG C:\Users\mshah08\Dropbox\Sandbox\pin-3.0-76991-msvc-windows2\source\tools\MyPinTool\Debug\TestProgram1.exe
+---f:\dd\vctools\crt_bld\self_x86\crt\src\atonexit.c	79	_onexit	IMG C:\Users\mshah08\Dropbox\Sandbox\pin-3.0-76991-msvc-windows2\source\tools\MyPinTool\Debug\TestProgram1.exe
+---f:\dd\vctools\crt_bld\self_x86\crt\src\atonexit.c	126	atexit	IMG C:\Users\mshah08\Dropbox\Sandbox\pin-3.0-76991-msvc-windows2\source\tools\MyPinTool\Debug\TestProgram1.exe
+---	0	___set_app_type	IMG C:\Users\mshah08\Dropbox\Sandbox\pin-3.0-76991-msvc-windows2\source\tools\MyPinTool\Debug\TestProgram1.exe
+---	0	__amsg_exit	IMG C:\Users\mshah08\Dropbox\Sandbox\pin-3.0-76991-msvc-windows2\source\tools\MyPinTool\Debug\TestProgram1.exe
+---	0	___getmainargs	IMG C:\Users\mshah08\Dropbox\Sandbox\pin-3.0-76991-msvc-windows2\source\tools\MyPinTool\Debug\TestProgram1.exe
+---f:\dd\vctools\crt_bld\self_x86\crt\src\gs_support.c	97	__security_init_cookie	IMG C:\Users\mshah08\Dropbox\Sandbox\pin-3.0-76991-msvc-windows2\source\tools\MyPinTool\Debug\TestProgram1.exe
+---	0	__exit	IMG C:\Users\mshah08\Dropbox\Sandbox\pin-3.0-76991-msvc-windows2\source\tools\MyPinTool\Debug\TestProgram1.exe
+---	0	__XcptFilter	IMG C:\Users\mshah08\Dropbox\Sandbox\pin-3.0-76991-msvc-windows2\source\tools\MyPinTool\Debug\TestProgram1.exe
+---	0	__cexit	IMG C:\Users\mshah08\Dropbox\Sandbox\pin-3.0-76991-msvc-windows2\source\tools\MyPinTool\Debug\TestProgram1.exe
+---	0	_exit	IMG C:\Users\mshah08\Dropbox\Sandbox\pin-3.0-76991-msvc-windows2\source\tools\MyPinTool\Debug\TestProgram1.exe
+---	0	__CrtSetCheckCount	IMG C:\Users\mshah08\Dropbox\Sandbox\pin-3.0-76991-msvc-windows2\source\tools\MyPinTool\Debug\TestProgram1.exe
+---f:\dd\vctools\crt_bld\self_x86\crt\src\pesect.c	44	_ValidateImageBase	IMG C:\Users\mshah08\Dropbox\Sandbox\pin-3.0-76991-msvc-windows2\source\tools\MyPinTool\Debug\TestProgram1.exe
+---f:\dd\vctools\crt_bld\self_x86\crt\src\pesect.c	92	_FindPESection	IMG C:\Users\mshah08\Dropbox\Sandbox\pin-3.0-76991-msvc-windows2\source\tools\MyPinTool\Debug\TestProgram1.exe
+---f:\dd\vctools\crt_bld\self_x86\crt\src\pesect.c	149	_IsNonwritableInCurrentImage	IMG C:\Users\mshah08\Dropbox\Sandbox\pin-3.0-76991-msvc-windows2\source\tools\MyPinTool\Debug\TestProgram1.exe
+---	0	__CrtDbgReportW	IMG C:\Users\mshah08\Dropbox\Sandbox\pin-3.0-76991-msvc-windows2\source\tools\MyPinTool\Debug\TestProgram1.exe
+---	0	__initterm	IMG C:\Users\mshah08\Dropbox\Sandbox\pin-3.0-76991-msvc-windows2\source\tools\MyPinTool\Debug\TestProgram1.exe
+---	0	__initterm_e	IMG C:\Users\mshah08\Dropbox\Sandbox\pin-3.0-76991-msvc-windows2\source\tools\MyPinTool\Debug\TestProgram1.exe
+---	0	_except_handler4	IMG C:\Users\mshah08\Dropbox\Sandbox\pin-3.0-76991-msvc-windows2\source\tools\MyPinTool\Debug\TestProgram1.exe
+---	0	_RTC_Failure	IMG C:\Users\mshah08\Dropbox\Sandbox\pin-3.0-76991-msvc-windows2\source\tools\MyPinTool\Debug\TestProgram1.exe
+---	0	failwithmessage	IMG C:\Users\mshah08\Dropbox\Sandbox\pin-3.0-76991-msvc-windows2\source\tools\MyPinTool\Debug\TestProgram1.exe
+---	0	DebuggerProbe	IMG C:\Users\mshah08\Dropbox\Sandbox\pin-3.0-76991-msvc-windows2\source\tools\MyPinTool\Debug\TestProgram1.exe
+---	0	DebuggerRuntime	IMG C:\Users\mshah08\Dropbox\Sandbox\pin-3.0-76991-msvc-windows2\source\tools\MyPinTool\Debug\TestProgram1.exe
+---	0	_RTC_StackFailure	IMG C:\Users\mshah08\Dropbox\Sandbox\pin-3.0-76991-msvc-windows2\source\tools\MyPinTool\Debug\TestProgram1.exe
+---	0	_RTC_AllocaFailure	IMG C:\Users\mshah08\Dropbox\Sandbox\pin-3.0-76991-msvc-windows2\source\tools\MyPinTool\Debug\TestProgram1.exe
+---	0	_getMemBlockDataString	IMG C:\Users\mshah08\Dropbox\Sandbox\pin-3.0-76991-msvc-windows2\source\tools\MyPinTool\Debug\TestProgram1.exe
+---	0	_RTC_UninitUse	IMG C:\Users\mshah08\Dropbox\Sandbox\pin-3.0-76991-msvc-windows2\source\tools\MyPinTool\Debug\TestProgram1.exe
+---	0	?terminate@@YAXXZ	IMG C:\Users\mshah08\Dropbox\Sandbox\pin-3.0-76991-msvc-windows2\source\tools\MyPinTool\Debug\TestProgram1.exe
+---	0	__controlfp_s	IMG C:\Users\mshah08\Dropbox\Sandbox\pin-3.0-76991-msvc-windows2\source\tools\MyPinTool\Debug\TestProgram1.exe
+---	0	__invoke_watson	IMG C:\Users\mshah08\Dropbox\Sandbox\pin-3.0-76991-msvc-windows2\source\tools\MyPinTool\Debug\TestProgram1.exe
+---	0	__unlock	IMG C:\Users\mshah08\Dropbox\Sandbox\pin-3.0-76991-msvc-windows2\source\tools\MyPinTool\Debug\TestProgram1.exe
+---	0	___dllonexit	IMG C:\Users\mshah08\Dropbox\Sandbox\pin-3.0-76991-msvc-windows2\source\tools\MyPinTool\Debug\TestProgram1.exe
+---	0	__lock	IMG C:\Users\mshah08\Dropbox\Sandbox\pin-3.0-76991-msvc-windows2\source\tools\MyPinTool\Debug\TestProgram1.exe
+---	0	__except_handler4_common	IMG C:\Users\mshah08\Dropbox\Sandbox\pin-3.0-76991-msvc-windows2\source\tools\MyPinTool\Debug\TestProgram1.exe
+---f:\dd\vctools\crt_bld\self_x86\crt\src\intel\secchk.c	52	__security_check_cookie	IMG C:\Users\mshah08\Dropbox\Sandbox\pin-3.0-76991-msvc-windows2\source\tools\MyPinTool\Debug\TestProgram1.exe
+---	0	_RTC_GetSrcLine	IMG C:\Users\mshah08\Dropbox\Sandbox\pin-3.0-76991-msvc-windows2\source\tools\MyPinTool\Debug\TestProgram1.exe
+---	0	GetPdbDll	IMG C:\Users\mshah08\Dropbox\Sandbox\pin-3.0-76991-msvc-windows2\source\tools\MyPinTool\Debug\TestProgram1.exe
+---	0	GetPdbDllFromInstallPath	IMG C:\Users\mshah08\Dropbox\Sandbox\pin-3.0-76991-msvc-windows2\source\tools\MyPinTool\Debug\TestProgram1.exe
+---	0	GetPdbDllPathFromFilePath	IMG C:\Users\mshah08\Dropbox\Sandbox\pin-3.0-76991-msvc-windows2\source\tools\MyPinTool\Debug\TestProgram1.exe
+---f:\dd\vctools\crt_bld\self_x86\crt\src\gs_report.c	140	__report_gsfailure	IMG C:\Users\mshah08\Dropbox\Sandbox\pin-3.0-76991-msvc-windows2\source\tools\MyPinTool\Debug\TestProgram1.exe
+---	0	__wmakepath_s	IMG C:\Users\mshah08\Dropbox\Sandbox\pin-3.0-76991-msvc-windows2\source\tools\MyPinTool\Debug\TestProgram1.exe
+---	0	_wcscpy_s	IMG C:\Users\mshah08\Dropbox\Sandbox\pin-3.0-76991-msvc-windows2\source\tools\MyPinTool\Debug\TestProgram1.exe
+---	0	__wsplitpath_s	IMG C:\Users\mshah08\Dropbox\Sandbox\pin-3.0-76991-msvc-windows2\source\tools\MyPinTool\Debug\TestProgram1.exe
+---	0	__crt_debugger_hook	IMG C:\Users\mshah08\Dropbox\Sandbox\pin-3.0-76991-msvc-windows2\source\tools\MyPinTool\Debug\TestProgram1.exe
+---	0	_EncodePointer@4	IMG C:\Users\mshah08\Dropbox\Sandbox\pin-3.0-76991-msvc-windows2\source\tools\MyPinTool\Debug\TestProgram1.exe
+---	0	_InterlockedExchange@8	IMG C:\Users\mshah08\Dropbox\Sandbox\pin-3.0-76991-msvc-windows2\source\tools\MyPinTool\Debug\TestProgram1.exe
+---	0	_Sleep@4	IMG C:\Users\mshah08\Dropbox\Sandbox\pin-3.0-76991-msvc-windows2\source\tools\MyPinTool\Debug\TestProgram1.exe
+---	0	_InterlockedCompareExchange@12	IMG C:\Users\mshah08\Dropbox\Sandbox\pin-3.0-76991-msvc-windows2\source\tools\MyPinTool\Debug\TestProgram1.exe
+---	0	_HeapSetInformation@16	IMG C:\Users\mshah08\Dropbox\Sandbox\pin-3.0-76991-msvc-windows2\source\tools\MyPinTool\Debug\TestProgram1.exe
+---	0	_SetUnhandledExceptionFilter@4	IMG C:\Users\mshah08\Dropbox\Sandbox\pin-3.0-76991-msvc-windows2\source\tools\MyPinTool\Debug\TestProgram1.exe
+---	0	_DecodePointer@4	IMG C:\Users\mshah08\Dropbox\Sandbox\pin-3.0-76991-msvc-windows2\source\tools\MyPinTool\Debug\TestProgram1.exe
+---	0	_QueryPerformanceCounter@4	IMG C:\Users\mshah08\Dropbox\Sandbox\pin-3.0-76991-msvc-windows2\source\tools\MyPinTool\Debug\TestProgram1.exe
+---	0	_GetTickCount@0	IMG C:\Users\mshah08\Dropbox\Sandbox\pin-3.0-76991-msvc-windows2\source\tools\MyPinTool\Debug\TestProgram1.exe
+---	0	_GetCurrentThreadId@0	IMG C:\Users\mshah08\Dropbox\Sandbox\pin-3.0-76991-msvc-windows2\source\tools\MyPinTool\Debug\TestProgram1.exe
+---	0	_GetCurrentProcessId@0	IMG C:\Users\mshah08\Dropbox\Sandbox\pin-3.0-76991-msvc-windows2\source\tools\MyPinTool\Debug\TestProgram1.exe
+---	0	_GetSystemTimeAsFileTime@4	IMG C:\Users\mshah08\Dropbox\Sandbox\pin-3.0-76991-msvc-windows2\source\tools\MyPinTool\Debug\TestProgram1.exe
+---	0	_WideCharToMultiByte@32	IMG C:\Users\mshah08\Dropbox\Sandbox\pin-3.0-76991-msvc-windows2\source\tools\MyPinTool\Debug\TestProgram1.exe
+---	0	_IsDebuggerPresent@0	IMG C:\Users\mshah08\Dropbox\Sandbox\pin-3.0-76991-msvc-windows2\source\tools\MyPinTool\Debug\TestProgram1.exe
+---	0	_MultiByteToWideChar@24	IMG C:\Users\mshah08\Dropbox\Sandbox\pin-3.0-76991-msvc-windows2\source\tools\MyPinTool\Debug\TestProgram1.exe
+---	0	_RaiseException@16	IMG C:\Users\mshah08\Dropbox\Sandbox\pin-3.0-76991-msvc-windows2\source\tools\MyPinTool\Debug\TestProgram1.exe
+---	0	_lstrlenA@4	IMG C:\Users\mshah08\Dropbox\Sandbox\pin-3.0-76991-msvc-windows2\source\tools\MyPinTool\Debug\TestProgram1.exe
+---	0	_GetProcAddress@8	IMG C:\Users\mshah08\Dropbox\Sandbox\pin-3.0-76991-msvc-windows2\source\tools\MyPinTool\Debug\TestProgram1.exe
+---	0	_LoadLibraryW@4	IMG C:\Users\mshah08\Dropbox\Sandbox\pin-3.0-76991-msvc-windows2\source\tools\MyPinTool\Debug\TestProgram1.exe
+---	0	_HeapFree@12	IMG C:\Users\mshah08\Dropbox\Sandbox\pin-3.0-76991-msvc-windows2\source\tools\MyPinTool\Debug\TestProgram1.exe
+---	0	_HeapAlloc@12	IMG C:\Users\mshah08\Dropbox\Sandbox\pin-3.0-76991-msvc-windows2\source\tools\MyPinTool\Debug\TestProgram1.exe
+---	0	_GetProcessHeap@0	IMG C:\Users\mshah08\Dropbox\Sandbox\pin-3.0-76991-msvc-windows2\source\tools\MyPinTool\Debug\TestProgram1.exe
+---	0	_GetModuleFileNameW@12	IMG C:\Users\mshah08\Dropbox\Sandbox\pin-3.0-76991-msvc-windows2\source\tools\MyPinTool\Debug\TestProgram1.exe
+---	0	_VirtualQuery@12	IMG C:\Users\mshah08\Dropbox\Sandbox\pin-3.0-76991-msvc-windows2\source\tools\MyPinTool\Debug\TestProgram1.exe
+---	0	_GetModuleHandleW@4	IMG C:\Users\mshah08\Dropbox\Sandbox\pin-3.0-76991-msvc-windows2\source\tools\MyPinTool\Debug\TestProgram1.exe
+---	0	_FreeLibrary@4	IMG C:\Users\mshah08\Dropbox\Sandbox\pin-3.0-76991-msvc-windows2\source\tools\MyPinTool\Debug\TestProgram1.exe
+---	0	_TerminateProcess@8	IMG C:\Users\mshah08\Dropbox\Sandbox\pin-3.0-76991-msvc-windows2\source\tools\MyPinTool\Debug\TestProgram1.exe
+---	0	_GetCurrentProcess@0	IMG C:\Users\mshah08\Dropbox\Sandbox\pin-3.0-76991-msvc-windows2\source\tools\MyPinTool\Debug\TestProgram1.exe
+---	0	_UnhandledExceptionFilter@4	IMG C:\Users\mshah08\Dropbox\Sandbox\pin-3.0-76991-msvc-windows2\source\tools\MyPinTool\Debug\TestProgram1.exe
+.unnamedImageEntryPoint => mainCRTStartup in 
+..mainCRTStartup => 0 in f:\dd\vctools\crt_bld\self_x86\crt\src\crtexe.c
+..._security_init_cookie => 0 in f:\dd\vctools\crt_bld\self_x86\crt\src\gs_support.c
+..._tmainCRTStartup => 0 in f:\dd\vctools\crt_bld\self_x86\crt\src\crtexe.c
+....NtCurrentTeb => 0 in f:\dd\public\sdk\inc\winnt.h
+...._initterm_e => initterm_e in 
+.....pre_c_init => 0 in f:\dd\vctools\crt_bld\self_x86\crt\src\crtexe.c
+......check_managed_app => 0 in f:\dd\vctools\crt_bld\self_x86\crt\src\crtexe.c
+......RTC_Initialize => 0 in 
+.......RTC_InitBase => 0 in 
+........_CRT_RTC_INITW => CRT_RTC_INITW in 
+.........RTC_SetErrorFuncW => 0 in 
+.......setargv => 0 in f:\dd\vctools\crt_bld\self_x86\crt\src\dllargv.c
+.......setdefaultprecision => 0 in f:\dd\vctools\crt_bld\self_x86\crt\src\intel\fp8.c
+........_controlfp_s => controlfp_s in 
+........invoke_watson_if_error => 0 in f:\dd\vctools\crt_bld\self_x86\crt\src\internal.h
+......_CxxSetUnhandledExceptionFilter => 0 in f:\dd\vctools\crt_bld\self_x86\crt\prebuild\eh\unhandld.cpp
+......_initterm => initterm in 
+......pre_cpp_init => 0 in f:\dd\vctools\crt_bld\self_x86\crt\src\crtexe.c
+.......atexit => 0 in f:\dd\vctools\crt_bld\self_x86\crt\src\atonexit.c
+........onexit => 0 in f:\dd\vctools\crt_bld\self_x86\crt\src\atonexit.c
+......main => 0 in c:\users\mshah08\dropbox\sandbox\pin-3.0-76991-msvc-windows2\source\tools\testprogram1\main.cpp
+.......allmul => 0 in f:\dd\vctools\crt_bld\SELF_X86\crt\src\INTEL\llmul.asm
+........allmul => 0 in f:\dd\vctools\crt_bld\SELF_X86\crt\src\INTEL\llmul.asm
+.........allmul => 0 in f:\dd\vctools\crt_bld\SELF_X86\crt\src\INTEL\llmul.asm
+..........allmul => 0 in f:\dd\vctools\crt_bld\SELF_X86\crt\src\INTEL\llmul.asm
+...........allmul => 0 in f:\dd\vctools\crt_bld\SELF_X86\crt\src\INTEL\llmul.asm
+............allmul => 0 in f:\dd\vctools\crt_bld\SELF_X86\crt\src\INTEL\llmul.asm
+.............allmul => 0 in f:\dd\vctools\crt_bld\SELF_X86\crt\src\INTEL\llmul.asm
+..............allmul => 0 in f:\dd\vctools\crt_bld\SELF_X86\crt\src\INTEL\llmul.asm
+...............allmul => 0 in f:\dd\vctools\crt_bld\SELF_X86\crt\src\INTEL\llmul.asm
+................allmul => 0 in f:\dd\vctools\crt_bld\SELF_X86\crt\src\INTEL\llmul.asm
+.................lllinearSearch => 0 in c:\users\mshah08\dropbox\sandbox\pin-3.0-76991-msvc-windows2\source\tools\testprogram1\main.cpp
+..................printSecondCall => 0 in c:\users\mshah08\dropbox\sandbox\pin-3.0-76991-msvc-windows2\source\tools\testprogram1\main.cpp
+...................std::operator<<<std::char_traits<char> > => 0 in c:\program files (x86)\microsoft visual studio 10.0\vc\include\ostream
+....................std::char_traits<char>::length => 0 in c:\program files (x86)\microsoft visual studio 10.0\vc\include\iosfwd
+.....................strlen => strlen in 
+.....................std::basic_ostream<char,std::char_traits<char> >::sentry::sentry => 0 in c:\program files (x86)\microsoft visual studio 10.0\vc\include\ostream
+......................std::basic_ostream<char,std::char_traits<char> >::_Sentry_base::_Sentry_base => 0 in c:\program files (x86)\microsoft visual studio 10.0\vc\include\ostream
+.....................std::basic_ostream<char,std::char_traits<char> >::sentry::operator int std::_Bool_struct::* => 0 in c:\program files (x86)\microsoft visual studio 10.0\vc\include\ostream
+.....................std::basic_ostream<char,std::char_traits<char> >::sentry::~sentry => 0 in c:\program files (x86)\microsoft visual studio 10.0\vc\include\ostream
+......................std::basic_ostream<char,std::char_traits<char> >::_Sentry_base::~_Sentry_base => 0 in c:\program files (x86)\microsoft visual studio 10.0\vc\include\ostream
+...................allmul => 0 in f:\dd\vctools\crt_bld\SELF_X86\crt\src\INTEL\llmul.asm
+....................allmul => 0 in f:\dd\vctools\crt_bld\SELF_X86\crt\src\INTEL\llmul.asm
+.....................allmul => 0 in f:\dd\vctools\crt_bld\SELF_X86\crt\src\INTEL\llmul.asm
+......................allmul => 0 in f:\dd\vctools\crt_bld\SELF_X86\crt\src\INTEL\llmul.asm
+.......................allmul => 0 in f:\dd\vctools\crt_bld\SELF_X86\crt\src\INTEL\llmul.asm
+........................allmul => 0 in f:\dd\vctools\crt_bld\SELF_X86\crt\src\INTEL\llmul.asm
+.........................allmul => 0 in f:\dd\vctools\crt_bld\SELF_X86\crt\src\INTEL\llmul.asm
+..........................allmul => 0 in f:\dd\vctools\crt_bld\SELF_X86\crt\src\INTEL\llmul.asm
+...........................allmul => 0 in f:\dd\vctools\crt_bld\SELF_X86\crt\src\INTEL\llmul.asm
+............................allmul => 0 in f:\dd\vctools\crt_bld\SELF_X86\crt\src\INTEL\llmul.asm
+............................bbbinarySearch => 0 in c:\users\mshah08\dropbox\sandbox\pin-3.0-76991-msvc-windows2\source\tools\testprogram1\main.cpp
+.............................aulldiv => 0 in f:\dd\vctools\crt_bld\SELF_X86\crt\src\INTEL\ulldiv.asm
+.............................allmul => 0 in f:\dd\vctools\crt_bld\SELF_X86\crt\src\INTEL\llmul.asm
+..............................allmul => 0 in f:\dd\vctools\crt_bld\SELF_X86\crt\src\INTEL\llmul.asm
+...............................aulldiv => 0 in f:\dd\vctools\crt_bld\SELF_X86\crt\src\INTEL\ulldiv.asm
+...............................allmul => 0 in f:\dd\vctools\crt_bld\SELF_X86\crt\src\INTEL\llmul.asm
+................................allmul => 0 in f:\dd\vctools\crt_bld\SELF_X86\crt\src\INTEL\llmul.asm
+.................................aulldiv => 0 in f:\dd\vctools\crt_bld\SELF_X86\crt\src\INTEL\ulldiv.asm
+.................................allmul => 0 in f:\dd\vctools\crt_bld\SELF_X86\crt\src\INTEL\llmul.asm
+..................................allmul => 0 in f:\dd\vctools\crt_bld\SELF_X86\crt\src\INTEL\llmul.asm
+...................................aulldiv => 0 in f:\dd\vctools\crt_bld\SELF_X86\crt\src\INTEL\ulldiv.asm
+...................................allmul => 0 in f:\dd\vctools\crt_bld\SELF_X86\crt\src\INTEL\llmul.asm
+....................................allmul => 0 in f:\dd\vctools\crt_bld\SELF_X86\crt\src\INTEL\llmul.asm
+...................................RTC_Terminate => 0 in 
+....................................RTC_Shutdown => 0 in 
+....................................._CRT_RTC_INITW => CRT_RTC_INITW in 
+              Procedure           Image            Address        Calls Instructions
+
+===============^ Ending Pin Instrumented Program ^===============
